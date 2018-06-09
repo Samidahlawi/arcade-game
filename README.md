@@ -5,7 +5,8 @@ The front end of udacity nanodegree, I written a code for classic arcade game ba
 ## Installing
 Please following these steps
 1.  Open your terminal post:
-    `git clone my*********`
+`git clone https://github.com/wh0-1-am/arcade-game.git`
+
 2.  Open index.html in your browser.
 
 3.  Play the game and enjoying.
